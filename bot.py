@@ -191,6 +191,6 @@ async def place_error(ctx, error):
 
 
 
-client.run('ODk0MzExMDkzNjkyOTIzOTQ3.YVoKHA.tWgVNImyHo1xt-3nrchKA01NNt8')
+client.run('---tokengoeshere---')
 
 
